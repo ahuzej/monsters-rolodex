@@ -1,10 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&display=swap');
+
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.title {
+  padding:1rem;
+  text-align: center;
+  font-family: 'Bigelow Rules', cursive;
+  font-size:6rem;
+  color:rgb(9, 226, 255);
 }
 
 @media (prefers-reduced-motion: no-preference) {
